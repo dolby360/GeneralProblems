@@ -1,0 +1,8 @@
+Debug/
+*.filters
+*.vcxproj
+*.user
+*.exe
+*.bat
+.vscode/
+build/
